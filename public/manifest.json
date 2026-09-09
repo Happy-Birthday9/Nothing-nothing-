@@ -1,0 +1,23 @@
+{
+  "name": "Media Save",
+  "short_name": "Media Save",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#070b16",
+  "description": "Media Save \u2014 fast TikTok video and audio downloader.",
+  "icons": [
+    {
+      "src": "/api/logo",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/api/logo",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
